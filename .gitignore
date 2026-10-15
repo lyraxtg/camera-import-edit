@@ -1,0 +1,4 @@
+build/
+.DS_Store
+# Kept locally, not published for now
+README.md
